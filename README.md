@@ -4,6 +4,9 @@
 
 This project is a minimal Unix shell implementation in C, commonly known as "minishell." A shell is a command-line interface that allows users to interact with an operating system. This minishell provides basic shell functionalities, allowing users to execute commands, navigate directories, and manage processes.
 
+## Requirements
+You must have gcc compiler and readline libraries installed
+
 ## Features
 
 - **Command Execution:** Execute various shell commands and programs.
